@@ -2,6 +2,7 @@
 ## T-Tests, ANOVA, Tukey HSD, and Visualization
 ![](figure1.png)
 ![](figure2.png)
+![](figure3.png)
 ---
 
 ## Table of Contents

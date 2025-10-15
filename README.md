@@ -1,4 +1,4 @@
-# Complete Tutorial: Statistical Tests with Python
+# Statistical Tests with Python using dummy data :)
 ## T-Tests, ANOVA, Tukey HSD, and Visualization
 ![](figure1.png)
 ![](figure2.png)

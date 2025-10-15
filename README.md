@@ -1,6 +1,7 @@
 # Complete Tutorial: Statistical Tests with Python
 ## T-Tests, ANOVA, Tukey HSD, and Visualization
-!()[]
+![](figure1.png)
+![](figure2.png)
 ---
 
 ## Table of Contents
